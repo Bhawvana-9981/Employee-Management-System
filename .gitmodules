@@ -1,0 +1,3 @@
+[submodule "ems-frontend"]
+	path = ems-frontend
+	url = https://github.com/Bhawvana-9981/Employee-Management-System.git
